@@ -47,7 +47,7 @@ function App() {
         </div>
 
         <div className='container container1'>
-          <button onClick={finalSearch}>
+          <button>
             <img src="https://img.icons8.com/?size=100&id=14079&format=png&color=000000" alt='Icon' width="30px"/>  
         </button>
       </div>
